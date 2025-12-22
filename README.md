@@ -1,11 +1,9 @@
-HOMEROW COMPUTER USE
+# homerow-computer-use
 
-  computer-use attempt by leveraging homerow.app
+Simple `computer-use` demo using [Homerow.app](https://homerow.app).
 
-RUN
+https://github.com/user-attachments/assets/92196d2a-1c80-4a89-8b86-056a0587fd13
 
-  1. Steup GOOGLE_API_KEY inside '.env' file.
-
-  2. Run
-
-    >_ uv run --env-file .env main.py
+1. Get [Homerow](https://homerow.app)
+2. Steup `GOOGLE_API_KEY` inside '.env' file. (get one at [aistudio.google.com/api-keys](https://aistudio.google.com/api-keys))
+3. `uv run --env-file .env main.py`
