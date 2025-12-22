@@ -1,3 +1,7 @@
 HOMEROW COMPUTER USE
 
   computer-use attempt by leveraging homerow.app
+
+RUN
+
+  >_ uv run main.py
